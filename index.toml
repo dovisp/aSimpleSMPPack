@@ -21,6 +21,10 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
+file = "config/chunky/config.json"
+hash = "af16c5ebc6b1db724d3bd1d0f1551be816923b3dde0f3c078fbe67705b4af5be"
+
+[[files]]
 file = "mods/blossomhomes.pw.toml"
 hash = "1e7d236c2f52b02cf0a904e7a8d5cb595421ce0743dd10562c4a3dc0d3e3101a"
 metafile = true
