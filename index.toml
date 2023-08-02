@@ -1,0 +1,30 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "1e7d236c2f52b02cf0a904e7a8d5cb595421ce0743dd10562c4a3dc0d3e3101a"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "2d113be9b965a402b5df571f20f19ec78332e340f905e517032e170456db0498"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
+metafile = true
+
+[[files]]
+file = "mods/terra.pw.toml"
+hash = "cff35e3e7a0101a7460d91fff8c8611ad68c92283b468e7d75d166e01e6ff588"
+metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
