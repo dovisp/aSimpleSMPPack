@@ -6,3 +6,9 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude temp/extracted things
+
+config/spark/tmp
+config/Terra/
+
