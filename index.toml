@@ -22,7 +22,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/chunky/config.json"
-hash = "af16c5ebc6b1db724d3bd1d0f1551be816923b3dde0f3c078fbe67705b4af5be"
+hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
 file = "mods/blossomhomes.pw.toml"
