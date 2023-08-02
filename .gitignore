@@ -9,6 +9,6 @@
 
 # Exclude temp/extracted things
 
-config/spark/tmp
+config/spark/
 config/Terra/
 
