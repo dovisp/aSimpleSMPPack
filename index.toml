@@ -26,7 +26,7 @@ hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
 file = "mods/blossomhomes.pw.toml"
-hash = "1e7d236c2f52b02cf0a904e7a8d5cb595421ce0743dd10562c4a3dc0d3e3101a"
+hash = "28e87ec8ea6f27c380eb6c5ac8df26ae53ccddbd931f11d8a0ca023e7547033b"
 metafile = true
 
 [[files]]
@@ -47,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
+metafile = true
+
+[[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "fd5c552628fcda7f9c6504c5e7f6712bd87d9649e18da8a13028d7d4fa81ff56"
 metafile = true
 
 [[files]]
