@@ -25,41 +25,11 @@ file = "config/chunky/config.json"
 hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
-file = "mods/blossomhomes.pw.toml"
-hash = "28e87ec8ea6f27c380eb6c5ac8df26ae53ccddbd931f11d8a0ca023e7547033b"
-metafile = true
-
-[[files]]
-file = "mods/blossomlib.pw.toml"
-hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
-metafile = true
-
-[[files]]
-file = "mods/blossomtpa.pw.toml"
-hash = "2d113be9b965a402b5df571f20f19ec78332e340f905e517032e170456db0498"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "62d61fb372bdc57b4c5a3487c4394e8341dd125aee7b7ad8c9cf54b0f72b033f"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "1f922cadccd8b79e824e78d5e2e691e65127e7a500723121a6a6ccc6a1060289"
-metafile = true
-
-[[files]]
-file = "mods/terra.pw.toml"
-hash = "cff35e3e7a0101a7460d91fff8c8611ad68c92283b468e7d75d166e01e6ff588"
 metafile = true
