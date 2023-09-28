@@ -30,6 +30,11 @@ hash = "62d61fb372bdc57b4c5a3487c4394e8341dd125aee7b7ad8c9cf54b0f72b033f"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "293f06651cc903947ae422f5e612c73d66154453ad1390bda63920370671b968"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "1f922cadccd8b79e824e78d5e2e691e65127e7a500723121a6a6ccc6a1060289"
 metafile = true
