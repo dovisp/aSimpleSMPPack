@@ -25,6 +25,26 @@ file = "config/chunky/config.json"
 hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "631351ad5425da855d7c836da62687c35f1af074f0b5d10ce066492a252317a9"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "38f194c54cd4bc899339fc5089c8da5c3650ffcf0c65ad26d4ecd8220c399368"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "e6702c94b6ac5ce552b91db8319b9075bd7ea1c74baab7987b8ad9fc51055b4d"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
 metafile = true
