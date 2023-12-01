@@ -95,6 +95,11 @@ hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "889209f12eb20880b72360d87c20ed5d1715253f25a24f19196c63d9fe9f15e4"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "293f06651cc903947ae422f5e612c73d66154453ad1390bda63920370671b968"
 metafile = true
@@ -112,4 +117,9 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "c7b5cc4b23192c970f0aa018e1e5e801a56c3ec2149e87eb30e4d57fa624e2ba"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "d57b7803d75fed29ef38893ce04879b10ab6e1a23438c211e0682e0729ba0d83"
 metafile = true
