@@ -40,6 +40,16 @@ hash = "e6702c94b6ac5ce552b91db8319b9075bd7ea1c74baab7987b8ad9fc51055b4d"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "029e4b7bdea59b13a65ccb1fa2a77932e6f367cfa92d75aa355e828a943b856e"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "3346013c36376766f129ff9f6329a671b7d6f0e1d7bcdddb711a2f71811af0cd"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
 metafile = true
@@ -47,6 +57,31 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "f999930809222b57898da25a30aad2135b02894f42c0e1d2832c4670272fbd1d"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "e988cb120a107e8d0a3ad501beda973e1b247b290421667a67d95fce146e5dcc"
+metafile = true
+
+[[files]]
+file = "mods/libre-exp-fix.pw.toml"
+hash = "649d82315317a957d0a31d7e069407e334942597727deae38599796f34797e16"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
 
 [[files]]
