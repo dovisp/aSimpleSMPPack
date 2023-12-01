@@ -60,6 +60,11 @@ hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
