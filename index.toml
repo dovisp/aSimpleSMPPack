@@ -75,6 +75,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "bab5dd5660ba526d663b545bc9047176572d091b0657cf27d884e45d66d4b57f"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "f999930809222b57898da25a30aad2135b02894f42c0e1d2832c4670272fbd1d"
 metafile = true
@@ -102,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "293f06651cc903947ae422f5e612c73d66154453ad1390bda63920370671b968"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "9e09f07e73ff32e66e284584c72aeda18b81c4c3706e1be38352dbf072126102"
 metafile = true
 
 [[files]]
