@@ -120,6 +120,11 @@ hash = "1f922cadccd8b79e824e78d5e2e691e65127e7a500723121a6a6ccc6a1060289"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "63c8fef17eda0d977a62c80ca624c7a0736f964ea8843ff4b379d8bead0aabce"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "d4999aa4a0af3e06221075e4cbf62a8ffdc50537353d494ac40dd73f12bc173c"
 metafile = true
