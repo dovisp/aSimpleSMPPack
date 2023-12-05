@@ -70,6 +70,11 @@ hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "a5fe07ea78511750961d4b44278ee1f21e64fbc9598f74cd98bc6b3a532e6d79"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
@@ -97,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
+metafile = true
+
+[[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "49cc6ab0cfa778dcb0802c0d4f215e31e7826297c134baf86f494566d72bc0d6"
 metafile = true
 
 [[files]]
