@@ -45,16 +45,6 @@ hash = "bfd6aac603c9f2a577892c936cf1550010b92fdbe564f8253de8dbe34a562924"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "3346013c36376766f129ff9f6329a671b7d6f0e1d7bcdddb711a2f71811af0cd"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "4aa75a04f9f3f8944b3140f87f3c1ba06496ee893780e23261b8784817b61852"
 metafile = true
@@ -80,16 +70,6 @@ hash = "78f676cf264658e720a6522f12c52af65f536071b73720b0f26f44834c7a0cdc"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "f999930809222b57898da25a30aad2135b02894f42c0e1d2832c4670272fbd1d"
-metafile = true
-
-[[files]]
-file = "mods/ledger.pw.toml"
-hash = "e988cb120a107e8d0a3ad501beda973e1b247b290421667a67d95fce146e5dcc"
-metafile = true
-
-[[files]]
 file = "mods/libre-exp-fix.pw.toml"
 hash = "649d82315317a957d0a31d7e069407e334942597727deae38599796f34797e16"
 metafile = true
@@ -112,11 +92,6 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "1f922cadccd8b79e824e78d5e2e691e65127e7a500723121a6a6ccc6a1060289"
 metafile = true
 
 [[files]]
