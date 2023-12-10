@@ -60,11 +60,6 @@ hash = "a511b4d0863b4dc52d25ebd35814ec97036a48e3a9c3d37bb548633f5d4ade16"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
-metafile = true
-
-[[files]]
 file = "mods/incendium.pw.toml"
 hash = "78f676cf264658e720a6522f12c52af65f536071b73720b0f26f44834c7a0cdc"
 metafile = true
