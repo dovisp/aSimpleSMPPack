@@ -100,11 +100,6 @@ hash = "649d82315317a957d0a31d7e069407e334942597727deae38599796f34797e16"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
-metafile = true
-
-[[files]]
 file = "mods/mcdiscordchat.pw.toml"
 hash = "4087cf447cc657ae71396c2d31125d888e773c08adf23ee3fbfb8a1104a0a3e5"
 metafile = true
