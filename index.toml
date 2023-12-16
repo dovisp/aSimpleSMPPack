@@ -86,12 +86,12 @@ metafile = true
 
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "4087cf447cc657ae71396c2d31125d888e773c08adf23ee3fbfb8a1104a0a3e5"
+hash = "d005526e8793be526d7d204ebefe58aef5e2500de1304b1538df8b620d1fb61e"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "39ed42b47a3742d3a399907422665c66bf62d50524049ab46dd7b730d0eeec2b"
+hash = "59a63978280095fc713766f6da6fd2375395b8eadbe54a681978c32a406f3fcc"
 metafile = true
 
 [[files]]
