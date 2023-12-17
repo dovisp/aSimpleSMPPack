@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4aa75a04f9f3f8944b3140f87f3c1ba06496ee893780e23261b8784817b61852"
+hash = "ab60349289cadb218ec0e62c45c15d0da6a02aac92011cdd676312fc69009b69"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "da2b9c01f452a99a1e24cad09141ebbd3d05b9475242ab69f7d5b8d98e732637"
+hash = "887462ace66aec67827987e39c01e8f6c5f2c07e265b90ac9f611133c5f59a63"
 metafile = true
 
 [[files]]
