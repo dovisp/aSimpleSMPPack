@@ -1,0 +1,13 @@
+name = "No Portals"
+filename = "no-portals-1.20.4-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZzkyvOit/versions/lLwT4foy/no-portals-1.20.4-1.1.1.jar"
+hash-format = "sha1"
+hash = "171a459d2f5292c92305547b20c9dc9f99052e87"
+
+[update]
+[update.modrinth]
+mod-id = "ZzkyvOit"
+version = "lLwT4foy"

@@ -90,6 +90,11 @@ hash = "649d82315317a957d0a31d7e069407e334942597727deae38599796f34797e16"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
+metafile = true
+
+[[files]]
 file = "mods/mcdiscordchat.pw.toml"
 hash = "d005526e8793be526d7d204ebefe58aef5e2500de1304b1538df8b620d1fb61e"
 metafile = true
@@ -102,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
+metafile = true
+
+[[files]]
+file = "mods/no-portals.pw.toml"
+hash = "38abee7a891d5c6b1da322eb9df589cc382c94692220419a70a3d3e72fda1db0"
 metafile = true
 
 [[files]]
