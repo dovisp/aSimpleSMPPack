@@ -61,12 +61,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ab60349289cadb218ec0e62c45c15d0da6a02aac92011cdd676312fc69009b69"
+hash = "052cee4a2f1230519fb12dd030dd69990ff35aae840264d40065a0fdcb167ab6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
@@ -95,13 +95,18 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0bcf5ca6fa1cf6822e69ba183f983480c696b46553e857415054a579b5b92ace"
+metafile = true
+
+[[files]]
 file = "mods/mcdiscordchat.pw.toml"
 hash = "d005526e8793be526d7d204ebefe58aef5e2500de1304b1538df8b620d1fb61e"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "59a63978280095fc713766f6da6fd2375395b8eadbe54a681978c32a406f3fcc"
+hash = "783fe7d40a9e8e14775ed458cedc7cfc5cd13a2d3d857792adfda77025d3f379"
 metafile = true
 
 [[files]]
