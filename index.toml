@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8ad92515a4d70ba75d0affea314f19274faf06344c835a1b59d21724d011fb34"
+hash = "fefedc3157d0dc6d05af2ed8ae6fc0549a6011362ac2170f7b1115d5f73ca95b"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/libre-exp-fix.pw.toml"
-hash = "649d82315317a957d0a31d7e069407e334942597727deae38599796f34797e16"
+hash = "fdaa45922036fab857e0aa6856aaeff0aebe19d6baf5dfd0484151e66725f174"
 metafile = true
 
 [[files]]
@@ -101,12 +101,12 @@ metafile = true
 
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "d005526e8793be526d7d204ebefe58aef5e2500de1304b1538df8b620d1fb61e"
+hash = "51948e096e5edc7e7a2c148b0204b0bf23b2cc5b31185bcfbd6cc726caaa7497"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "783fe7d40a9e8e14775ed458cedc7cfc5cd13a2d3d857792adfda77025d3f379"
+hash = "5ba07c706075d05a1e095a4ab22997926be16615847e531606b5f39ddbd428a2"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "a2783dd257b7219e7189e4f9d98b057a89a0363a9389245ba76cd85e1033beba"
+hash = "8d2e5ab7a2e5959b784f34cbba3b69aeecdb94b7d09c5a848f80fc2673cddeaa"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "1bd25c8334d4766fe4b5371c6fb9e2f22aea33535e8a2c5ddaaf02d1bf81e3ed"
+hash = "e5fc7090192381b3a5a69e43bfc2d89c43425df506213a5f9c49930444b7cdff"
 metafile = true
 
 [[files]]
