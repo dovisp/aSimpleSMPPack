@@ -45,6 +45,11 @@ hash = "d3a7764f686bd4c6e44ef7e2ec0581fdefeb9ed3d4aab1db63aa58821a264d61"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "3d3b8336379b6d9f072476caf1f91b13e7e02e70fab23399e4e695eca48369fb"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "a44e6eac50227e4346d507836214f8ec462e74a264307253ec19bd3343ad0c7f"
 metafile = true
@@ -82,6 +87,16 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "78f676cf264658e720a6522f12c52af65f536071b73720b0f26f44834c7a0cdc"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "0684b15fd9fd27d81fc7175947d086cbc36d60ef565fc6175d82b11bf3d9c58d"
 metafile = true
 
 [[files]]
