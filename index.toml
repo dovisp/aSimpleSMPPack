@@ -25,6 +25,11 @@ file = "config/chunky/config.json"
 hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
+file = "mods/additional-structures.pw.toml"
+hash = "b9495ace43368ab8bb1504a7836ab1f55e406d9a96f5c6eca7814bbab9ab6adc"
+metafile = true
+
+[[files]]
 file = "mods/blossomhomes.pw.toml"
 hash = "3105d8761384a5bc92f2139ba88d831b4f36a315de266fe8af4c881038aeaf02"
 metafile = true
@@ -41,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d3a7764f686bd4c6e44ef7e2ec0581fdefeb9ed3d4aab1db63aa58821a264d61"
+hash = "487c250d249130964670eef8b1825e4e7ef1f8732b64995b02d3c1c72e590fb5"
 metafile = true
 
 [[files]]
@@ -66,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fefedc3157d0dc6d05af2ed8ae6fc0549a6011362ac2170f7b1115d5f73ca95b"
+hash = "db3c8e7c289678e7244a3cc0300303ebe68008b134e2ddfb207f7a2fb8cfa262"
 metafile = true
 
 [[files]]
@@ -120,8 +125,13 @@ hash = "51948e096e5edc7e7a2c148b0204b0bf23b2cc5b31185bcfbd6cc726caaa7497"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bd6d19a7233f79f0dc0330f68e20a9e2cc2baeb6c7d0f0a54f97d95a7c2020f7"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5ba07c706075d05a1e095a4ab22997926be16615847e531606b5f39ddbd428a2"
+hash = "b88658496a83e1ade03fe955191c379d413db8915f2f8d9641797b6f22865b25"
 metafile = true
 
 [[files]]
@@ -140,8 +150,13 @@ hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "30818755a310fb890343e1e03bf232831b1899bfca483a645c8a3f7ca3d73cf0"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "887462ace66aec67827987e39c01e8f6c5f2c07e265b90ac9f611133c5f59a63"
+hash = "671f00e95fdab8f0d4ecdde36e0954221dc6945552c423fe8cec6994b0f64a7a"
 metafile = true
 
 [[files]]
@@ -171,10 +186,10 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "25f30abe64eb76ee087648f3995a757868d2c5e1778610c03141bf8d2de2d955"
+hash = "53ef2669ace27d6233cb04dee1925aa6f3c6c4e313cc762da4edc1b30c7a856b"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "4057c0fdb25404da099b5cf257bf20a4f14ec2d9f94be425104eb59974a54c80"
+hash = "35c8354352841d4c01efb4989fb33a0d97fe45a6252db79ef5ad94319a842053"
 metafile = true
