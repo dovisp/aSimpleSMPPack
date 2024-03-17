@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "487c250d249130964670eef8b1825e4e7ef1f8732b64995b02d3c1c72e590fb5"
+hash = "9fb071407761cdb22323713a3f24ca27f04bb67c0ea455ee2e73778c6ecece75"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
+hash = "e3ca186b116bd65d49fb0db709a1b37d303318e3afb2e06bc662313b53346d06"
 metafile = true
 
 [[files]]
@@ -71,17 +71,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "db3c8e7c289678e7244a3cc0300303ebe68008b134e2ddfb207f7a2fb8cfa262"
+hash = "bc5559ece399ce470ad9bb879827ab460b3e5c5c113b39ae18ace6c33d875d1c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "a511b4d0863b4dc52d25ebd35814ec97036a48e3a9c3d37bb548633f5d4ade16"
+hash = "8c7dcfd901418a606bd8addd1a896adaf4813717457226095e5083f7bb092dad"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "51948e096e5edc7e7a2c148b0204b0bf23b2cc5b31185bcfbd6cc726caaa7497"
+hash = "94f33f4ff940a711682d51f34ee48c5dca9d4357aa4142ba45ae6d3be8730a41"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b88658496a83e1ade03fe955191c379d413db8915f2f8d9641797b6f22865b25"
+hash = "ca7cc306ad9f3f8eb6e92d0cad5187778a23b081500b5820dbd9effd08ba0dfd"
 metafile = true
 
 [[files]]
@@ -151,12 +151,12 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "30818755a310fb890343e1e03bf232831b1899bfca483a645c8a3f7ca3d73cf0"
+hash = "57ca8ace9e0b4d8869cef25052ed846bd6c2a096dc282bb000c4fe3a7028b9ea"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "671f00e95fdab8f0d4ecdde36e0954221dc6945552c423fe8cec6994b0f64a7a"
+hash = "b53b372c6e8f703d66d038e633c9f18ee24875336f156d30ea36efd159bf5d6d"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "8d2e5ab7a2e5959b784f34cbba3b69aeecdb94b7d09c5a848f80fc2673cddeaa"
+hash = "4c0ca0c3415e4fd876b7393bc7059b6a6b9fd56d8b0c392929fa750c0a9d0300"
 metafile = true
 
 [[files]]
@@ -181,15 +181,15 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "e5fc7090192381b3a5a69e43bfc2d89c43425df506213a5f9c49930444b7cdff"
+hash = "0c19088ec88684d798dab1b3464782cab0b4ebb4015e0c5f6cc0761681dd3b00"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "53ef2669ace27d6233cb04dee1925aa6f3c6c4e313cc762da4edc1b30c7a856b"
+hash = "7dfbf79bf874dcfdb27e4bbc92da56cdab2ffdbee459dfd2eee5a57dacb59ed2"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "35c8354352841d4c01efb4989fb33a0d97fe45a6252db79ef5ad94319a842053"
+hash = "e8e60c63af40fc61446877e68a7a3a674f61e3fcd02293e813d33eb5977c4e36"
 metafile = true
