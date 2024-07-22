@@ -31,27 +31,27 @@ metafile = true
 
 [[files]]
 file = "mods/blossomhomes.pw.toml"
-hash = "3105d8761384a5bc92f2139ba88d831b4f36a315de266fe8af4c881038aeaf02"
+hash = "e306c2936abe5307081a39b96dba4ad528585675178b6fbc12f18b7fc73c1398"
 metafile = true
 
 [[files]]
 file = "mods/blossomlib.pw.toml"
-hash = "0507dcdd8b12740725491bce15d8f1eaa6974b6878f442401465790e0955361e"
+hash = "7ae17c265d7449aa1d4566334cf972ef1c740f6adcdf750ebe2adfe5c51492a4"
 metafile = true
 
 [[files]]
 file = "mods/blossomtpa.pw.toml"
-hash = "74b968b96c7a39bea56d3ac839c7dcfaa6d8116be5d1128562680bc4ce3c6377"
+hash = "0e01c6534431075697a308b297b7d6c54f6751833fa556694c00f25b9323c80f"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e2c268027d63e997ef750bcbc76e9ee29c775b7121a0be28a121bc4f332a7092"
+hash = "e59cdb63f686a93ac60b490130e860723914abb43d508f0f5631e5a0c888f4c5"
 metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "3d3b8336379b6d9f072476caf1f91b13e7e02e70fab23399e4e695eca48369fb"
+hash = "0a068bf7d22e7d03f82d045139601d5d90b3dec04f4437e091193da8fc1996dc"
 metafile = true
 
 [[files]]
@@ -61,17 +61,17 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
+hash = "0ec02dc51f734c7e6a5d3573a247d356e1e53a962e7c1d799a4bfc24afc68d9d"
 metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "74cb4754dd26809b128f6c13947c449f7ec345fd678a2d699357db50a0cec1a1"
+hash = "caffae5d23211e603b78703c9572f91b41839c79b169c47f5fd6bd8b908a7522"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+hash = "2aaff0682f57de54888dda0c66ca6584b700460886064622aebe2d0d68ef0e23"
 metafile = true
 
 [[files]]
@@ -81,12 +81,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "8c7dcfd901418a606bd8addd1a896adaf4813717457226095e5083f7bb092dad"
+hash = "1607273499753c01ddb750838acf64b871a050e46b9a9adec0368cbe1bab3cbd"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
 metafile = true
 
 [[files]]
@@ -96,52 +96,47 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
+hash = "1b02ffc524987017adbc0a9413f2b53285f4c55247a0943d7de121c68d714a1f"
 metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "77f066e333bbaa0e22d1888cd61c22f56c3715ccdc0180f1829aed81cf9062c5"
+hash = "59a744a2924f23a142da8755d384db01abfed8c4a2da1d5a1f827412a4b5f02b"
 metafile = true
 
 [[files]]
 file = "mods/libre-exp-fix.pw.toml"
-hash = "5fce4cc83854302b9b0e7070d3df65b6a4bc331871e274dd7ef93f6b95e19d7a"
+hash = "4677bd85480781cee61f67cb82e897c16f5e70bb7dfb5a656c3f536aea6ac842"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
+hash = "2600531abea1670221c21edf73d7024cf1285f58bca3a838777f957e5e17f477"
 metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "0bcf5ca6fa1cf6822e69ba183f983480c696b46553e857415054a579b5b92ace"
-metafile = true
-
-[[files]]
-file = "mods/mcdiscordchat.pw.toml"
-hash = "39095ab157792124d06682ee49bf4f0d1c1ea13a391d9d7fded7ed64bac72299"
+hash = "82f67bd2b8f0289aae4128a732ce51011dd2b6318c45d5526c44768a77ce2a8e"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "bd6d19a7233f79f0dc0330f68e20a9e2cc2baeb6c7d0f0a54f97d95a7c2020f7"
+hash = "d157b9199d778da79cc8a08a57b4ba998cea1a57b75c54ca5b3a9892a05996ce"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c0daa1b0438a80083fed9145abe9760e6d4b0f5d3f091ea12e893c32072c8899"
+hash = "ce0282aa9a31909cba4c187bbf1ea0df1c0cd6077d21f89130116f6051a8d6ca"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "a6a57004f5990ae59be0b89eb2edc5f50e2233d0410bd5f8060d58401592e0ef"
+hash = "ad96bd81072a10f638ae343938b819f8ab95e11cbb6147f7a81d2e30a49e115a"
 metafile = true
 
 [[files]]
 file = "mods/no-portals.pw.toml"
-hash = "38abee7a891d5c6b1da322eb9df589cc382c94692220419a70a3d3e72fda1db0"
+hash = "8b0eb93904f4211bb2b740c85f0e61f4000ccdfd402e33eeeaedf4acd111252e"
 metafile = true
 
 [[files]]
@@ -151,27 +146,27 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "0b71f3c83d98d3e6e645c14f635d8917de07d52185527cbb8c3ecccd8ebd3622"
+hash = "d7f2c87e64128a04824e2c470fcde8e7879fc60c42d7883f95f7dc000657cae5"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f9528821aa643fdf06c6ee1a5e5e8a2f401949c557d56bbfd30b38eb165e0d12"
+hash = "7d271d9d1dfdea653904c1d806f568c11d7b17508e2bbd7aa8dcb2ceed409ec2"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "3f1cdc39c7c76eba1c62b6f22d07f9507ff1c9a9e860f179481ec63449451a79"
+hash = "40db85936e7296ee0940dd86a9355202d40f23d6af5631cc6e05ae2059e9c78b"
 metafile = true
 
 [[files]]
 file = "mods/squaremap.pw.toml"
-hash = "65be4932549f14a74f606ab230bbdaf8b98916ce836c1cf217a6f3d44a136457"
+hash = "865cccc12c3dfcdba9f8d633835ea3ad424892a8a7b82433ce69382bbb8a32f7"
 metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
+hash = "6554f134a7dd74d1156b5d6ac8d9952d7c17761cc3b0ce19c7b39fb02cb62e42"
 metafile = true
 
 [[files]]
@@ -181,15 +176,15 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "2d37a4dcc375f767312061211cfb3ce36a6fecbe718b54ce150ee8896f0f09f0"
+hash = "15f9f0946fee753c0921799e0ad6fb19369154cb6d7f3000866c9f00ea758f36"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d5fa0e898cb2233b7928c1b6109d041e3f0a507bdbdca6aefabbb4462044d9c6"
+hash = "279764a6cd7b6bc637f8d451ecd6fbcdd2be3692d6cd4b722ddf04e179d2bc89"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "e8e60c63af40fc61446877e68a7a3a674f61e3fcd02293e813d33eb5977c4e36"
+hash = "e24aef0e404fb3a678935191446eb4bafe83ec10772e2b299680310dcc5eebc5"
 metafile = true
