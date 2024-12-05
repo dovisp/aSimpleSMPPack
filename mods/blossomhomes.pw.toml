@@ -1,13 +1,13 @@
 name = "BlossomHomes"
-filename = "blossom-homes-2.2.3+1.20.6.jar"
+filename = "blossom-homes-2.2.6+1.21.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/FXeppAS4/versions/onhnK75N/blossom-homes-2.2.3%2B1.20.6.jar"
-hash-format = "sha1"
-hash = "bb5fbf3da4cf82c6c8f82db233eb5f3145cd1509"
+url = "https://cdn.modrinth.com/data/FXeppAS4/versions/xsh0LnbL/blossom-homes-2.2.6%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "e229b75593b95e2a6036b6b6a3696131cd2115d4ba7651294c396b04961aceac37516367e4c2fcd3828d6cff4702b373abae1f49708b38c836500301ceb299a7"
 
 [update]
 [update.modrinth]
 mod-id = "FXeppAS4"
-version = "onhnK75N"
+version = "xsh0LnbL"
