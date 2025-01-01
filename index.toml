@@ -26,22 +26,22 @@ hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
 file = "mods/blossomhomes.pw.toml"
-hash = "86736e317451e282656e6e842e18847cd957be2297fed8efe060003e36b47711"
+hash = "1b6cd1d8f0ecdee63feb26a3d39d8194b5e713b9e2a4e5b021d17569c430ae9c"
 metafile = true
 
 [[files]]
 file = "mods/blossomlib.pw.toml"
-hash = "c6a076dc9d556c60b6d689befdee641bb5d538baa713e5db25571da39a6500bc"
+hash = "dee34336edeb00799560138a92ccd6444f81c529a1cc3f24c7d22c1db4cb78d3"
 metafile = true
 
 [[files]]
 file = "mods/blossomtpa.pw.toml"
-hash = "3cac04e818c155ece336a6ad5f4ea4509ada2c512cca8cb8d5963bc89cdbd35c"
+hash = "25b45fbe068249c091b5d99ebebfb4bef65e7df575df737fb3e63e50888236e3"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d84208c3e0fcb41c0d0dc7912600ed69b99af909bf9bbe811f97bae4960b8535"
+hash = "a3797a0b4f7cc12822d57a1660e039cf763ac5e9ef889d23994171b74c26a0c3"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "455caee0f4c53abd8ae4d5f528a8b1fb513b181dffff9e9659cd746571220ee8"
+hash = "40aa9a34a6ae8d39fb3e8fb8d7ae2edfd17fee124300a1ea26c65f06cff89de9"
 metafile = true
 
 [[files]]
@@ -80,12 +80,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "d338226f38a10b9b85707904f41ac3fafaef1a279648e8a84c0102cb43d1811d"
+hash = "22b6f4c2ee9c8d52c0555962a4a2f08635666fdf7cf078b1fb6b3c426e9db034"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "bfd0e9e0e3ba950e458caf9687e2ebbf0a3c4e1f2f97259a25242f5649e808a9"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
@@ -100,27 +100,27 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "5ec055cc7f7f3b787c85ea9df8e295743037f5f1574344fec9fc417302976491"
+hash = "c65c6af0b1ea619a0736c8de3c3126afa37145a60b7d5c0dd0cffa7ec353f754"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0d50516f7ba174f3bc8fb4c12e1200d82649ca5e3b3f42de408d420bfa13fd2d"
+hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
 metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "02a800c0a08da3a1330454f646d125bf3f6b94700cda2efedfa52bff103f228c"
+hash = "41da276bc9f08734c69f57d7d1053568e33ebd14fe565a56f9b92b46622fbe08"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "ae0579ed9736b4b111df68a536c917fdc83a1c0b266d80f0a4c59eeb4c8e329b"
+hash = "031d0811bba637ad2fe66d491157e4c1173eba73c1a5fb75a7886d65d8a2bad6"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "477ee00ae9c0473f452c78a3191428a5758486c4e74955e0fc741481fc5dc14b"
+hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
 
 [[files]]
@@ -135,12 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "96aa05a04c0c9aa185b5db06d367d361931eae8cd2d41757443983c52c94da7c"
+hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "53baa31369bfb31684a7c012b85691bd5b2490f3ef99e4038c50423e1906a49c"
+hash = "16e02f523c718baefd9dd42b24bd1aeb7c1142ff0e46a512e958284158bd8461"
 metafile = true
 
 [[files]]
@@ -160,20 +160,20 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "fc84e14e785f803c49359c1c0337a17beaffae83199f4c8cc642e17db6b1c90b"
+hash = "0a24e15aae666832731b6b1a5d9cccd98a9a26728afebb9bb96f97fb13beee8b"
 metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "cf40f88ab3279941fe6d3ff10cf8f68977282c88e16a87ed553d3035be85a5a4"
+hash = "b8c42905346e451f366a27c8a246b286f55fb5e5b07471667a03d0fcfadca8a9"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "a0478c37ec11704dc5136a4e92e9e0b54e3dc89e114bc6504692e8adfe4d423c"
+hash = "9906f7cbfd75ffd5ae8c1e19c874a1648647c2523fdcce50f64f2b8c08e29ae6"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "3d1370250e7c49942a8fc60d34de13148f7a20cb5ed5de21fcdb690cb048b8bc"
+hash = "5d1875a6804a8bf03f0e8b692014e17328f7993b77f7940c84fccd9daff07006"
 metafile = true
