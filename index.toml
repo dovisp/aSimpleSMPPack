@@ -45,11 +45,6 @@ hash = "a3797a0b4f7cc12822d57a1660e039cf763ac5e9ef889d23994171b74c26a0c3"
 metafile = true
 
 [[files]]
-file = "mods/carpet-extra.pw.toml"
-hash = "2075c04708f3279e0432e265d1e795f9ffc57d670fc5567bbc7e36473feaa239"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "b1cd73231544d2e55928071c3685f6a3df0e8b72725ca6c10d9ee2b7c816b166"
 metafile = true
@@ -141,11 +136,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "16e02f523c718baefd9dd42b24bd1aeb7c1142ff0e46a512e958284158bd8461"
-metafile = true
-
-[[files]]
-file = "mods/squaremap.pw.toml"
-hash = "27f5ecc5a0004c4cacd9a4d352c2388dc1603d8b91dfb9d28bf130f288dd733c"
 metafile = true
 
 [[files]]
