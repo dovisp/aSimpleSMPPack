@@ -50,6 +50,21 @@ hash = "a3797a0b4f7cc12822d57a1660e039cf763ac5e9ef889d23994171b74c26a0c3"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra-extras.pw.toml"
+hash = "fa536fa53a4aadde74cb0db25c9c6f20686a23d3449ea65180a5e2c098969ab1"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "f68ced147cfb20b0bce974411e42106d84557aefb10b77e31ae8ac771954edc1"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "13cd4e9e1d7a596072ce69a9bafd97e3f04bebc137d220ac062fe90968286453"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
 metafile = true
