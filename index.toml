@@ -25,6 +25,10 @@ file = "config/chunky/config.json"
 hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
+file = "mods/Terraphilic v1.2.0.jar"
+hash = "3f8e57c8261325bd8f5c13e44e6ef58812b5f379fb7ce310472436b50afbfee6"
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "86364ddf4303cb39f92bf9b45578ad2ef04f8da58de00858207b57668a34dd8e"
 metafile = true
@@ -95,6 +99,16 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "87d16e6f43df61a8fb025a9977343bc2f026570d198f48d82ef087be0d9e29eb"
+metafile = true
+
+[[files]]
+file = "mods/immersive-structures.pw.toml"
+hash = "46e2b08daa59e5b380329de2a01e9d96c81b4a6a921759e957842555d8d21f4d"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
 metafile = true
@@ -145,6 +159,11 @@ hash = "ee0bae90cf1d33911f36b3d562e32dce2e48e38c41d297a89c2663707d4ee88a"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "3ecb49498a9bfd8fb1f980236dbca36d42d5b458f539770b4b4124ffad9d76b5"
 metafile = true
@@ -162,6 +181,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "16e02f523c718baefd9dd42b24bd1aeb7c1142ff0e46a512e958284158bd8461"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "29eb2bfab304dc0c77cefbe18c813ec8a0f26d62e56a237f6683718e101f9f53"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "904ad5b0b32e5875203ded1e5f98995d2b93441e42c9a82fa6ca884a933a729d"
 metafile = true
 
 [[files]]
