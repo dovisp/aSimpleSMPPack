@@ -104,11 +104,6 @@ hash = "87d16e6f43df61a8fb025a9977343bc2f026570d198f48d82ef087be0d9e29eb"
 metafile = true
 
 [[files]]
-file = "mods/immersive-structures.pw.toml"
-hash = "46e2b08daa59e5b380329de2a01e9d96c81b4a6a921759e957842555d8d21f4d"
-metafile = true
-
-[[files]]
 file = "mods/incendium.pw.toml"
 hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
 metafile = true
@@ -182,6 +177,10 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash = "16e02f523c718baefd9dd42b24bd1aeb7c1142ff0e46a512e958284158bd8461"
 metafile = true
+
+[[files]]
+file = "mods/squaremap-fabric-mc1.21.4-1.3.4.jar"
+hash = "9e212b2c9aa4ef6e95eaa9e86a152fa06b37ccdfe28ac48ee53f8b97e79239e8"
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
