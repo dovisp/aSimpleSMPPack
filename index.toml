@@ -25,10 +25,6 @@ file = "config/chunky/config.json"
 hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
-file = "mods/Terraphilic-v1.2.0.jar"
-hash = "3f8e57c8261325bd8f5c13e44e6ef58812b5f379fb7ce310472436b50afbfee6"
-
-[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "86364ddf4303cb39f92bf9b45578ad2ef04f8da58de00858207b57668a34dd8e"
 metafile = true
