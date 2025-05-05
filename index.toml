@@ -25,7 +25,7 @@ file = "config/chunky/config.json"
 hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
-file = "mods/Terraphilic v1.2.0.jar"
+file = "mods/Terraphilic-v1.2.0.jar"
 hash = "3f8e57c8261325bd8f5c13e44e6ef58812b5f379fb7ce310472436b50afbfee6"
 
 [[files]]
@@ -79,11 +79,6 @@ hash = "00748986d1ead018cbcd56fa688020dee2038dfb7acd69105a677f60c8cd2f0d"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "2ad8cd5745efd0bd0f7f32f060bec092a7b2ef8ac3c6163033193a8277012e43"
-metafile = true
-
-[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "bfaa12849ae4f63dbdf585862ba2393bb312bd50589e0219d201e1a09f0fd0ea"
 metafile = true
@@ -117,6 +112,10 @@ metafile = true
 file = "mods/incendium.pw.toml"
 hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
 metafile = true
+
+[[files]]
+file = "mods/individualkeepinv-1.1.1-1.21.4.jar"
+hash = "8063dd0bee05816aca64b167047c77a342572484245a9347f00f3d3c9b457906"
 
 [[files]]
 file = "mods/krypton.pw.toml"
@@ -176,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "b1087da79e1a0b506088d0cc7d081919f2808ee85c6de9171d91e04c0db90f30"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "c2310a0880bfee05469c4185390e49ef69496ebda4a9508a322b16c39dd24a96"
 metafile = true
 
 [[files]]
