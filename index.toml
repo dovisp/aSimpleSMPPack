@@ -231,3 +231,7 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "3347d58a5b6b64c36f8632f2166cd300600dc3076845247a6ba58ffbdfbe767d"
 metafile = true
+
+[[files]]
+file = "world/datapacks/Terraphilic-v1.2.0.zip"
+hash = "6d5d34771a2726400933cf5d40e07d92635a1fedf659a3ca4ed8bc9720e513e8"
