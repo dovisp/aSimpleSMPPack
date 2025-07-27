@@ -70,11 +70,6 @@ hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
 metafile = true
 
 [[files]]
-file = "mods/discord-mc-chat.pw.toml"
-hash = "00748986d1ead018cbcd56fa688020dee2038dfb7acd69105a677f60c8cd2f0d"
-metafile = true
-
-[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "bfaa12849ae4f63dbdf585862ba2393bb312bd50589e0219d201e1a09f0fd0ea"
 metafile = true
