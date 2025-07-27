@@ -26,7 +26,7 @@ hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
-hash = "86364ddf4303cb39f92bf9b45578ad2ef04f8da58de00858207b57668a34dd8e"
+hash = "f756991b03b1a79559094159d5713f39edb05f129b4c6a0a6d3d3a3acb1fc68a"
 metafile = true
 
 [[files]]
@@ -41,12 +41,12 @@ metafile = true
 
 [[files]]
 file = "mods/blossomtpa.pw.toml"
-hash = "07cb1ba8af69589c4762024430cbcc3c141602b07d194446cafe0bafa58377d5"
+hash = "19598a8e379707864c385e094df493e24b6306068209a89b3bf82140b69db6c6"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "62e99d55c3f95e732fbbb23572c70bd030a6c89f90844b8a74d1e527c0183696"
+hash = "1d6a658473589e15d906a591257e1ed769b6fcb298c4affe32163a9ca2316b33"
 metafile = true
 
 [[files]]
@@ -71,17 +71,17 @@ metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "bfaa12849ae4f63dbdf585862ba2393bb312bd50589e0219d201e1a09f0fd0ea"
+hash = "17fcb439c167ccee7f9d86db92b1bb7d456e93fa712f5057e3e339fc87cc6078"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "87d16e6f43df61a8fb025a9977343bc2f026570d198f48d82ef087be0d9e29eb"
+hash = "1eca834248d3420fd44ffb6cc17194c94c974e331e324f579ed5ae9a649a2526"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "77c1125246a7662f4674018015a8c67152af405b7a3abe9cb249ebb36a264ea5"
+hash = "58b90c52266f89c339a35bd46378d8059d56949d5926c7b25da98719d0b38065"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "3ecb49498a9bfd8fb1f980236dbca36d42d5b458f539770b4b4124ffad9d76b5"
+hash = "71dba581a68de19790dd6888e515d8b693debfc915a18ffb82af473c395f4dd3"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "fdc2b264bfae9dbef68222edc1c220708df9ecc9bb8fa74b79ce1ebab6fe5355"
+hash = "e9b8be8af0254133f53f4fd63861b227011328960397d99714ab28bf4b35af57"
 metafile = true
 
 [[files]]
@@ -189,12 +189,12 @@ hash = "9e212b2c9aa4ef6e95eaa9e86a152fa06b37ccdfe28ac48ee53f8b97e79239e8"
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "29eb2bfab304dc0c77cefbe18c813ec8a0f26d62e56a237f6683718e101f9f53"
+hash = "a0dbd38eace0a67288b27d2463d7383b4e28183f844bbf8521c505a932c41363"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "904ad5b0b32e5875203ded1e5f98995d2b93441e42c9a82fa6ca884a933a729d"
+hash = "9c5ef39a8ae37a70e5a9c689e5978b3bbdb22429056756ad7a25247fd6d95952"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "04b2ee94649b26be45c6aa14622c8fb5ba0c236b42d3a0cc89ee4c44315de275"
+hash = "a6b9f6494310d853f39dcdbcc77bfe6c26118e330c79778dc50c17e8e20b424e"
 metafile = true
 
 [[files]]
