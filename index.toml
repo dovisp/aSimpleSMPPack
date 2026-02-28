@@ -125,6 +125,11 @@ hash = "7f26c8df78d02b1d63a723a3a45b838415126da5296ac67b0414e564da30a421"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "67116d1cf5d38dfd27aded9d675afcc625d720a4d457660ff82db760934d9f4d"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
@@ -202,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "b227e85e0e318e43baa9dcc63af10a9b850e0055ee3c1ac52b79c7557e813637"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "398fc0aeb16146cc18016f3735ea27a47eb888650f1b31d152e19398397c6157"
 metafile = true
 
 [[files]]
