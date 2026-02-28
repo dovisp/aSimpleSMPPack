@@ -1,13 +1,13 @@
 name = "BlossomLib"
-filename = "blossom-lib-2.5.11+1.21.4.jar"
+filename = "blossom-lib-2.5.18+1.21.11.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xw7lTsbM/versions/3mC9QSRE/blossom-lib-2.5.11%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/Xw7lTsbM/versions/ud4jEwcZ/blossom-lib-2.5.18%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "595aefb0949829b56721fe14cbdc98aa95eb717cd3688ace0c5e602dd69b4487a243c75853408887313a9d6fe12b4e3d632b1813c4a93be15f0e507d39be98e1"
+hash = "9dbdbd5d2699cf9f2e339f5a937baae2a0dc0641b2d4578aaaf1a8f088765db1dda2ba66c4c1fe5bcd47872a31f56b130061189e0e3b1599a9c73fd8084b4762"
 
 [update]
 [update.modrinth]
 mod-id = "Xw7lTsbM"
-version = "3mC9QSRE"
+version = "ud4jEwcZ"

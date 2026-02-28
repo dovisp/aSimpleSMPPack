@@ -1,13 +1,13 @@
 name = "Additional Structures"
-filename = "AdditionalStructures-1.21.x-(v.5.1.2-fabric).jar"
+filename = "AdditionalStructures-1.21-(v.5.2.0-FABRIC)-dev.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/TWsbC6jW/versions/rJGcBQbc/AdditionalStructures-1.21.x-%28v.5.1.2-fabric%29.jar"
+url = "https://cdn.modrinth.com/data/TWsbC6jW/versions/ieaPytK8/AdditionalStructures-1.21-%28v.5.2.0-FABRIC%29-dev.jar"
 hash-format = "sha512"
-hash = "9d9f7acaa83cf51a82906617f0024707a41b2b581fc0f148cec99812343ac6ce587e271ce45fdbd8c650571439dd2e2bf8a0b9f96b0174b68cd309640394ccc6"
+hash = "9615a4525bf787fc03df5fdcf071408164a693d567af16ecbf8f9bde098a5e0c27fe7101691b60eba8152c882bd2032bbf485a8578b5ae4267d54acf9d9d544d"
 
 [update]
 [update.modrinth]
 mod-id = "TWsbC6jW"
-version = "rJGcBQbc"
+version = "ieaPytK8"
