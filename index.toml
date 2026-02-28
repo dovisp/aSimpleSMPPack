@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/BlossomMods/BlossomHomes.json"
-hash = "f9352214b2c1a5689284192b43d2450baa4780e06fa12fba357c5bb0a2eb1bb3"
-
-[[files]]
-file = "config/BlossomMods/BlossomLib.json"
-hash = "52187ed3376cee1908b067d1bc3d852c9e933d153f74150192ece95ec3717475"
-
-[[files]]
-file = "config/BlossomMods/BlossomTpa.json"
-hash = "d3df169de76f0b07b55882bda8a1d5f19624ac9be8780d6f6463f269c7260cda"
-
-[[files]]
-file = "config/NoChatReports/NCR-Common.json"
-hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
-
-[[files]]
-file = "config/chunky/config.json"
-hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
-
-[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "1acdeda01f4109d8f5029d05afd4d9b83d20a0ecf0b46dea93ad792e18275ddd"
 metafile = true
@@ -48,6 +24,10 @@ metafile = true
 file = "mods/c2me-fabric.pw.toml"
 hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
 metafile = true
+
+[[files]]
+file = "mods/carpet-extra-1.21.11-1.4.177.jar"
+hash = "3e45bd255dfa388fbca4992eb5e07e7cd1ccb3efff33676a5135b8e96a44cac9"
 
 [[files]]
 file = "mods/carpet-extra-extras.pw.toml"

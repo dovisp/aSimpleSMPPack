@@ -1,9 +1,0 @@
-{
-  "teleportation": null,
-  "standStill": 3,
-  "cooldown": 10,
-  "defaultHome": "main",
-  "startHomes": 2,
-  "dimensionBlacklist": [],
-  "useBlacklistAsWhitelist": false
-}
