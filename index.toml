@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/BlossomMods/BlossomHomes.json"
+hash = "274e7365b00e0d909da4e1203fc86f3b46d86261390d84c7b73c5b6123d2bba5"
+
+[[files]]
+file = "config/BlossomMods/BlossomLib.json"
+hash = "52187ed3376cee1908b067d1bc3d852c9e933d153f74150192ece95ec3717475"
+
+[[files]]
+file = "config/BlossomMods/BlossomTpa.json"
+hash = "67b0c2f12bb9f574d5a1ce70a391983a7322b750aed7877d92e0bb23b8cd8ea6"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "27ccca9ff342fa09d4c7460e7858c78bdaad406cd5be8a420c4cac918a252e39"
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "1acdeda01f4109d8f5029d05afd4d9b83d20a0ecf0b46dea93ad792e18275ddd"
 metafile = true
