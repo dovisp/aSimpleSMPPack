@@ -1,13 +1,13 @@
 name = "NoExpensive"
-filename = "NE-1.21.11-1.10.2.jar"
+filename = "NoExpensive-1.21.11-1.11.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2nz0kJ1N/versions/v6NgGWpm/NE-1.21.11-1.10.2.jar"
+url = "https://cdn.modrinth.com/data/2nz0kJ1N/versions/d5hrRE4O/NoExpensive-1.21.11-1.11.0.jar"
 hash-format = "sha512"
-hash = "b567aaf1300c1ea65da48222277d1330ed7e2d658c9cfa8b87aee8d6ff7fb207b189d4df8a4dcff1c2091f816ce8ccd02c70d638632cca699a82b2e296a0b5f6"
+hash = "e13baed31ac1abb084886cd40a731ba3805126d3d8cf49b7f8a9ff8a0eec2b2935da92fee2413765328e64f7e41918e3aa98d142b17e9baac2c0c8fdb91799f2"
 
 [update]
 [update.modrinth]
 mod-id = "2nz0kJ1N"
-version = "v6NgGWpm"
+version = "d5hrRE4O"

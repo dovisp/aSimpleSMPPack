@@ -1,13 +1,13 @@
 name = "Repurposed Structures - Quilt/Fabric"
-filename = "repurposed_structures-7.6.1+1.21.11-fabric.jar"
+filename = "repurposed_structures-7.6.2+1.21.11-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/muf0XoRe/versions/plvrc4Gd/repurposed_structures-7.6.1%2B1.21.11-fabric.jar"
+url = "https://cdn.modrinth.com/data/muf0XoRe/versions/LgshXq1u/repurposed_structures-7.6.2%2B1.21.11-fabric.jar"
 hash-format = "sha512"
-hash = "a83f0fc885b28a0b52a98c955f0d5df69bcaefe6c83a15ddada24b794b6ce0e0dd87e817758f6fee1802a324f30444274147f326ec5bf9728b3b3c0bbbf735a8"
+hash = "b535e4247dfb71dec709ff021c2a40fad10c34c22a2950ee24b772d1841188f27f671050de88048684871cdfba84855ca7f65374768ba3b36ab8863c9b0697bc"
 
 [update]
 [update.modrinth]
 mod-id = "muf0XoRe"
-version = "plvrc4Gd"
+version = "LgshXq1u"
