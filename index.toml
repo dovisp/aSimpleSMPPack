@@ -79,6 +79,11 @@ hash = "2ccce9c28059ea90a5457771de06a69b0a2d1f06d48f8add48a38f1a2307da3c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-gui-imgui.pw.toml"
+hash = "f039fe1efb56a59266ddac99a82163354e58aa8b5fe8a725def0d492f8b0c5c1"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
@@ -126,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "1a8d8865ba726baf4f953f30737257d78a7c3529795f0b76fa67b90ab5038555"
+metafile = true
+
+[[files]]
+file = "mods/mineconf.pw.toml"
+hash = "b66eeda2c3666f0a74a9c1b53569bd5ffa8400abe070a6fc7abf5db0fca6749e"
 metafile = true
 
 [[files]]
