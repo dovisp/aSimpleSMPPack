@@ -1,13 +1,13 @@
 name = "Fabric Gui ImGui"
-filename = "fabric-gui-imgui-1.21.11-1.0.7+imgui.1.92.0.jar"
+filename = "fabric-gui-imgui-1.21.11-1.0.11+imgui.1.92.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/M78HuV3L/versions/kakBu46N/fabric-gui-imgui-1.21.11-1.0.7%2Bimgui.1.92.0.jar"
+url = "https://cdn.modrinth.com/data/M78HuV3L/versions/AfFYQ2fE/fabric-gui-imgui-1.21.11-1.0.11%2Bimgui.1.92.0.jar"
 hash-format = "sha512"
-hash = "eeaa07dcececc9297fb9936de58cce6bd05dfa5d10daafc0beec3415cb78457fb50085c1959dbb958c7944524538946af32f76ff3a233edf354f57a42ef3cc8d"
+hash = "66cea1e4c7b3d7c8a95d97b3d74a98aa3df82637010a7748cf7746045cec76f3e83c44bffe4064eefbb6896dba8c3f043b19ad7356db411eff6970d2a4f28174"
 
 [update]
 [update.modrinth]
 mod-id = "M78HuV3L"
-version = "kakBu46N"
+version = "AfFYQ2fE"

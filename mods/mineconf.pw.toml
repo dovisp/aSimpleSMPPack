@@ -1,13 +1,13 @@
 name = "MineConf"
-filename = "mineconf-1.21.11-1.1.2.jar"
+filename = "mineconf-1.21.11-1.1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NfULUoHI/versions/NSEQamiF/mineconf-1.21.11-1.1.2.jar"
+url = "https://cdn.modrinth.com/data/NfULUoHI/versions/99WkqFu7/mineconf-1.21.11-1.1.3.jar"
 hash-format = "sha512"
-hash = "2abc2fc37bdcf9c218bf733b691995afb4b81edc96ea31c93f9a70d8bd782904c3deeddb7408b4ea577c4b0bec7ce487bda3ab8ec15ff58c0d9f33894b5dc6b1"
+hash = "ea67c16ca5fdea6f8e2d1e090d4cfe8182797af18cf83ca6956d9c4cb31da3de3593fac3c0a991c523bb6538a28f20ab51f27038dec366b0766d19f905cff1b8"
 
 [update]
 [update.modrinth]
 mod-id = "NfULUoHI"
-version = "NSEQamiF"
+version = "99WkqFu7"
